@@ -59,4 +59,6 @@ A Python password manager with a functional GUI that lets you generate secure pa
     - Terminal (macOS/Linux): 'python3 main.py'
     - Windows (or IDEs like VS Code, PyCharm): 'python main.py' or use the Run button
 
-
+# License
+This project is licensed under the MIT License. Feel free to use or modify it for personal use or learning.
+<br> Stay secure!
