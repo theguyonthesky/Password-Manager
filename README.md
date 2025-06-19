@@ -25,25 +25,28 @@ A Python password manager with a functional GUI that lets you generate secure pa
 
 5. All data is stored in a JSON file (data.json) for easy access and persistence.
 
-Modules Used
-tkinter – for the graphical interface
+# Tools and Modules Used
+- Python – main programming language
 
-random – to generate secure passwords
+- tkinter – for building the GUI
 
-json – for saving and reading user data
+- random – to generate secure passwords
 
-pyperclip – to copy passwords to clipboard
+- json – for saving and reading user data
 
-messagebox – for user alerts
+- pyperclip – to copy passwords to clipboard
+(Install it with: pip install pyperclip)
 
-Files
-main.py: Main application logic
+- messagebox – for user alerts (part of tkinter)
 
-logo.png: Displayed at the top of the GUI
+# Files
+- main.py: Main application logic
 
-data.json: Auto-generated file to store credentials
+- logo.png: Displayed at the top of the GUI
 
-How to Run
+- data.json: Auto-generated file to store credentials
+
+# How to Run
 Make sure Python is installed on your system
 
 Install the pyperclip module if you don't have it:
