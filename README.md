@@ -61,4 +61,4 @@ A Python password manager with a functional GUI that lets you generate secure pa
 
 # License
 This project is licensed under the MIT License. Feel free to use or modify it for personal use or learning.
-<br> **Good luck and stay secure! 😊**
+<br> **Stay secure! 😊**
