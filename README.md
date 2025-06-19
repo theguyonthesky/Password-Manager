@@ -56,7 +56,7 @@ A Python password manager with a functional GUI that lets you generate secure pa
    
 4. Run the app using one of the following methods:
 
-Terminal (macOS/Linux): 'python3 main.py'
-Windows (or IDEs like VS Code, PyCharm): 'python main.py' or use the Run button
+    - Terminal (macOS/Linux): 'python3 main.py'
+    - Windows (or IDEs like VS Code, PyCharm): 'python main.py' or use the Run button
 
 
