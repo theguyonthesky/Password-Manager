@@ -37,7 +37,7 @@ A Python password manager with a functional GUI that lets you generate secure pa
 - `pyperclip` – to copy passwords to clipboard
 (Install it with: pip install pyperclip)
 
-- `messagebox` – for user alerts (part of tkinter)
+- `messagebox` – for user alerts (part of `tkinter`)
 
 # Files
 - `main.py`: Main application logic
