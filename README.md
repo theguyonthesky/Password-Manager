@@ -40,11 +40,11 @@ A Python password manager with a functional GUI that lets you generate secure pa
 - messagebox – for user alerts (part of tkinter)
 
 # Files
-- main.py: Main application logic
+- `main.py`: Main application logic
 
-- logo.png: Displayed at the top of the GUI
+- `logo.png`: Displayed at the top of the GUI
 
-- data.json: Auto-generated file to store credentials
+- `data.json`: Auto-generated file to store credentials
 
 # How to Run
 1. Make sure Python is installed on your system
