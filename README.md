@@ -6,7 +6,7 @@ A Python password manager with a functional GUI that lets you generate secure pa
 
 - Save website credentials (website, email/username, password)
 
-- Store data locally in a data.json file
+- Store data locally in a `data.json` file
 
 - Search for and retrieve saved credentials
 
