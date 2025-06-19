@@ -47,21 +47,15 @@ A Python password manager with a functional GUI that lets you generate secure pa
 - data.json: Auto-generated file to store credentials
 
 # How to Run
-Make sure Python is installed on your system
+1. Make sure Python is installed on your system
 
-Install the pyperclip module if you don't have it:
+2. Clone or download this repository.
 
-bash
-Copy
-Edit
-pip install pyperclip
-Place logo.png in the same directory as main.py
+3. Place `logo.png` in the same directory as `main.py`  
+   *(Note: The `data.json` file is auto-created in the same directory when you save your first entry — no need to add it manually.)*
+   
+4. Run the app:
 
-Run the app:
-
-bash
-Copy
-Edit
 python main.py
 or
 
