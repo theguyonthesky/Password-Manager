@@ -14,7 +14,7 @@ A Python password manager with a functional GUI that lets you generate secure pa
 
 - User-friendly Tkinter interface
 
-# How it works
+# How It Works
 1. Enter a website name and email/username.
 
 2. Click "Generate Password" to create a secure password.
